@@ -3,8 +3,8 @@ import json
 
 client = discord.Client(intents=discord.Intents.all())
 #------------------------
-channel_id = 1038922375615492197 # sends application to when it is done
-token = ""
+channel_id = 1249336771997732975 # sends application to when it is done
+token = "MTI1NDI4MTE1MDMzNjMzOTk4OQ.GM0xPp.Hd7obxLgLhsB_eR9z1MG6YyuzIDk2xzaeKv5Hw"
 # ------------------------
 prefix = '?'
 questions = {
